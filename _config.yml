@@ -11,7 +11,7 @@ email: lari@javlaranamma.nu
 description: > # this means to ignore newlines until "baseurl:"
   En sida om bandet Jävlaranamma från Göteborg
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://larkov.github.io/ja.nu/" # the base hostname & protocol for your site
+url: "http://new.javlaranamma.nu/" # the base hostname & protocol for your site
 twitter_username: larkov
 github_username:  larkov
 
